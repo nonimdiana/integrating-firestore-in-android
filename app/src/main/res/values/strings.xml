@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Firestore Intro</string>
+    <string name="upload_data">Upload data</string>
+    <string name="retrieve_data">Retrieve data</string>
+</resources>
